@@ -6,3 +6,6 @@ something chenged from master
 
 changed something
 
+
+line 10 from master
+
