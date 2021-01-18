@@ -1,2 +1,8 @@
 from master
+<<<<<<< HEAD
 something chenged from master
+=======
+
+
+changed something
+>>>>>>> dev
